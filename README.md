@@ -53,14 +53,14 @@ will make it easy to contribute with the project via pull requests.
 After forking you can get your own copy of project by doing:
 
 ```
-git clone https://github.com/YOUR-USERNAME/parallelProgEP1.git
+git clone https://github.com/YOUR-USERNAME/parallelProgEP2.git
 ```
 
 Alternately, you can just get a copy of this repository by cloning it from
 upstream by doing:
 
 ```
-git clone https://github.com/deciolauro/parallelProgEP1.git
+git clone https://github.com/deciolauro/parallelProgEP2.git
 ```
 
 However, please note that if using this second method you will not be able to
@@ -122,7 +122,7 @@ The current build released is 0.0.1
 * **Décio Lauro Soares (deciolauro@gmail.com)**
 * **Fatemeh Mosaiyebzadeh (mahshid.msy179@gmail.com)**
 
-See also the list of [contributors](https://github.com/deciolauro/parallelProgEP1/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/deciolauro/parallelProgEP2/graphs/contributors) who participated in this project.
 
 Please consult our [CONTRIBUTING](CONTRIBUTING.md) for instructions. 
 
